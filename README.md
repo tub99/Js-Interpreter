@@ -4,11 +4,11 @@
 2.Double Click on index.html(or you can open it in your favourite browser by 'Open With' ->Right Click on mouse) or open it in your localhost.
 
 -------------------------------------------------------------------------------------------------------------------------------
-Parse Tree
+#Parse Tree
 To see the parse tree output,open the console.
 To open the console: Right click on Browse--> Click Inspect Element-->Go to Console
 
-Functionalities
+#Functionalities
 
 1) Simple Mathematical operations(like addition,subtraction,multiplication,division)
 
@@ -47,7 +47,6 @@ For eg1:
 
 For eg2:
 	diff(a,b)
-	
 	Error: Token 'undefined' not recognized. a is undefined. b is undefined
 
 
