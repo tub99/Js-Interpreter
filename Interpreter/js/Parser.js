@@ -1,4 +1,4 @@
-// This class is responsible for craeting the parse trees it gets as input
+// This class is responsible for creating the parse trees it gets as input
 //from the Lexical Analyzer class
 
 //Parser
