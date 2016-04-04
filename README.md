@@ -5,7 +5,7 @@ An Interpreter is a computer program that can
 	3. executes the expression.
 It doesn't do compilation, rather it executes directly.
 
-The tool built here performs similar things like generating a <b>ParseTree<b> and evaluating the <b>expression<b>.
+The tool built here performs similar things like <b>generating a ParseTree<b> and evaluating the <b>expression<b>.
 
 #How to Run
 ------------------------------------------------------------------------------------------------------------------------------
