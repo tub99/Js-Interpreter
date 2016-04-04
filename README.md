@@ -1,4 +1,11 @@
 # Js-Interpreter
+An Interpreter is a computer program that can
+	1. parse source code
+	2. convert it to an intermediate expression 
+	3. executes the expression.
+It doesn't do compilation, rather it executes directly.
+
+#How to Run
 ------------------------------------------------------------------------------------------------------------------------------
 1.Go inside Interpreter folder.
 2.Double Click on index.html(or you can open it in your favourite browser by 'Open With' ->Right Click on mouse) or open it in your localhost.
