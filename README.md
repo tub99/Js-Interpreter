@@ -5,6 +5,8 @@ An Interpreter is a computer program that can
 	3. executes the expression.
 It doesn't do compilation, rather it executes directly.
 
+The tool built here performs similar things like generating a <b>ParseTree<b> and evaluating the <b>expression<b>.
+
 #How to Run
 ------------------------------------------------------------------------------------------------------------------------------
 1.Go inside Interpreter folder.
@@ -37,7 +39,7 @@ For eg1:
  	max(99,44,2,77,104)
  	The result is 104
  ```
-For eg:
+For eg2:
 ```
 	hello(2,4,6)
 	Error: Token 'undefined' cannot be recognized
