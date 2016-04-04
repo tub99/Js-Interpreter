@@ -1,4 +1,4 @@
-//Calculator gives us the ultimate result from the parse tree
+//Calculator gives us the  result evaluatedfrom the parse tree
 function Calculator(parseTree) {
 	// calculate() is a public function responsible 
 	// for evaluating the entire expression 

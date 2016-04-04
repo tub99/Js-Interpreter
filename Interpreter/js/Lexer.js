@@ -1,4 +1,4 @@
-//Lexer- responsible for breaking down lexerInput string to tokenArray
+//Lexer is responsible for breaking down lexerInput string to tokenArray
 function LexicalAnalyzer(lexerInput){
   this.lexAnalyze = function () {
     //Token Array will program the statement divided into tokens
