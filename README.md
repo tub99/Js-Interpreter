@@ -74,5 +74,9 @@ For eg2:
 	diff(a,b)
 	Error: Token 'undefined' not recognized. a is undefined. b is undefined
 ```
-
+### Sample Output
+The console on the right-hand side contains the parse tree
+<p align="center">
+  <img src="Interpreter/screenshot/interpreter.PNG" width="700" />
+</p>
 
