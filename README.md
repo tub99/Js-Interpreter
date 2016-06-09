@@ -1,8 +1,8 @@
 # Js-Interpreter
-An Interpreter is a computer program that can
-	1. parse source code
-	2. convert it to an intermediate expression 
-	3. executes the expression.
+An Interpreter is a computer program that can <br>
+	1. parse source code <br>
+	2. convert it to an intermediate expression <br>
+	3. executes the expression.<br>
 It doesn't do compilation, rather it executes directly.
 
 The tool built here performs similar things like <b>generating a ParseTree<b> and evaluating the <b>expression<b>.
